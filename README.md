@@ -11,3 +11,5 @@ Airnbnb is a very popular service upon travellers. This analysis is to help to u
 Open-source data from Kaggle.com
 https://www.kaggle.com/datasets/thedevastator/airbnbs-nyc-overview/, 
 origining from https://huggingface.co/datasets/gradio/NYC-Airbnb-Open-Data
+# TABLEAU PRESENTATION (contains most important findings only)
+https://public.tableau.com/app/profile/dasha.pavlova/viz/NYCAirnbnbAnalysis/Story1
